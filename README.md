@@ -1,7 +1,7 @@
 Conway's Game of Life :
 Game creates table of cells (20x20), dead or alive.
 Course of the game is after every tick, detecting how many alive neighbours every cell has 
-and making decision if this cell will be unchanged, will die or born.
+and making decision if that cell will be unchanged, will die or born.
 
 Initialization of game rules :
 
